@@ -24,6 +24,7 @@ main {
   border-radius: 1rem;
   padding: 1.5rem;
   box-shadow: 10px 10px hsl(0, 0%, 7%);
+  border: 1px solid hsl(0, 0%, 7%);
 }
 @media (min-width: 500px) {
   main {
