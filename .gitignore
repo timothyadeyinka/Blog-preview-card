@@ -18,8 +18,8 @@
 # Ignore all .md files
 *.md
 
-# Does not ignore the README.md file
-!README.md
+# Does not ignore the README-template.md file
+!README-template.md
 
 # Ignore the preview image
 preview.jpg
@@ -27,3 +27,7 @@ preview.jpg
 # Ignore these folders
 fonts/
 design/
+node_modules/
+
+# Ignore package-lock
+package-lock.json
