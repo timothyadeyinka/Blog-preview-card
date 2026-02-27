@@ -90,6 +90,10 @@ main {
         padding: 1.5rem 0;
       }
 
+      & img {
+        width: 10%;
+      }
+
       & p.author {
         font-weight: bold;
         color: $gray-950;

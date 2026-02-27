@@ -82,6 +82,9 @@ main > section > div * {
   display: inline;
   padding: 1.5rem 0;
 }
+main > section > div img {
+  width: 10%;
+}
 main > section > div p.author {
   font-weight: bold;
   color: hsl(0, 0%, 7%);
